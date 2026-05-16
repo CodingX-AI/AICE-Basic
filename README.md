@@ -11,7 +11,7 @@
 > 모든 자료는 저작권 보호를 위해 🔒 **암호화된 ZIP 형태**로 배포됩니다.
 
 <p align="center">
-<img src="images/Book_Cover.png" width="350">
+<img src="images/Book_Cover.jpg" width="350">
 </p>
 <p align="center">
 </p>
